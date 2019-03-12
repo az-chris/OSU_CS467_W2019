@@ -222,9 +222,12 @@ MonoBehaviour:
   m_HandleRect: {fileID: 2983686744207260973}
   m_Direction: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Value: 0.99999785
   m_Size: 0.86209923
 =======
+=======
+>>>>>>> parent of 47d7740... Merge branch 'master' of https://github.com/az-chris/OSU_CS467_W2019
   m_Value: 0.9998151
   m_Size: 0.39667782
 >>>>>>> parent of 222ce41... Merge pull request #10 from joshuaherrera/working

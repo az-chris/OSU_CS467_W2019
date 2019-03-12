@@ -57,13 +57,14 @@ public class BagScript : MonoBehaviour
             if (slot.IsEmpty)
             {
                 slot.AddItem(item);
-                //Debug.Log(MySlots.Count);
+                Debug.Log(MySlots.Count);
                 return true;
             }
         }
         Debug.Log("Inventory full!");
         return false;
     }
+<<<<<<< HEAD
     /*
     public int MyEmptySlotCount()
     {
@@ -96,6 +97,8 @@ public class BagScript : MonoBehaviour
         }
     }
 
+=======
+>>>>>>> parent of 47d7740... Merge branch 'master' of https://github.com/az-chris/OSU_CS467_W2019
 
     public void OpenClose(Bag bag)
     {
